@@ -1,0 +1,65 @@
+title,year,runtime,imdb_rating,director,stars1,star2,star3,Domestic Lifetime Gross,Domestic %,Foreign Lifetime Gross,Foreign %
+Howard the Duck,1986,110,4.7,Willard Huyck,Willard Huyck,Lea Thompson,Jeffrey Jones,16295774,0.43,21667000,0.57
+Blade,1998,120,7.1,Stephen Norrington,Stephen Norrington,Wesley Snipes,Stephen Dorff,70087718,0.53,61123659,0.47
+X-Men,2000,104,7.4,Bryan Singer,Bryan Singer,Patrick Stewart,Hugh Jackman,157299718,0.53,139039810,0.47
+Blade II,2002,117,6.7,Guillermo del Toro,Guillermo del Toro,Wesley Snipes,Kris Kristofferson,82348319,0.53,72661713,0.47
+Spider-Man,2002,121,7.3,Sam Raimi,Sam Raimi,Tobey Maguire,Kirsten Dunst,407022860,0.49,418002176,0.51
+Daredevil,2003,103,5.3,Mark Steven Johnson,Mark Steven Johnson,Ben Affleck,Jennifer Garner,102543518,0.57,76636200,0.43
+X2: X-Men United,2003,134,7.4,Bryan Singer,Bryan Singer,Patrick Stewart,Hugh Jackman,214949694,0.53,192761855,0.47
+Hulk,2003,138,5.6,Ang Lee,Ang Lee,Eric Bana,Jennifer Connelly,132177234,0.54,113107931,0.46
+The Punisher,2004,124,6.4,Jonathan Hensleigh,Jonathan Hensleigh,Thomas Jane,John Travolta,33810189,0.62,20889916,0.38
+Spider-Man 2,2004,127,7.3,Sam Raimi,Sam Raimi,Tobey Maguire,Kirsten Dunst,373585825,0.47,415390628,0.53
+Blade: Trinity,2004,113,5.8,David S. Goyer,David S. Goyer,Wesley Snipes,Kris Kristofferson,52411906,0.4,79565998,0.6
+Elektra,2005,97,4.7,Rob Bowman,Rob Bowman,Jennifer Garner,Goran Visnjic,24409722,0.75,8176202,0.25
+Fantastic Four,2005,106,5.7,Tim Story,Tim Story,Ioan Gruffudd,Michael Chiklis,154696080,0.46,178839854,0.54
+X-Men: The Last Stand,2006,104,6.7,Brett Ratner,Brett Ratner,Patrick Stewart,Hugh Jackman,234362462,0.51,226072829,0.49
+Ghost Rider,2007,110,5.3,Mark Steven Johnson,Mark Steven Johnson,Nicolas Cage,Eva Mendes,115802596,0.51,112935797,0.49
+Spider-Man 3,2007,139,6.2,Sam Raimi,Sam Raimi,Tobey Maguire,Kirsten Dunst,336530303,0.38,558453070,0.62
+Fantastic Four: Rise of the Silver Surfer,2007,92,5.6,Tim Story,Tim Story,Ioan Gruffudd,Jessica Alba,131921738,0.44,169991393,0.56
+Iron Man,2008,126,7.9,Jon Favreau,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,319034126,0.54,266762121,0.46
+The Incredible Hulk,2008,112,6.7,Louis Leterrier,Louis Leterrier,Edward Norton,Liv Tyler,134806913,0.51,129964083,0.49
+Punisher: War Zone,2008,103,5.9,Lexi Alexander,Lexi Alexander,Ray Stevenson,Dominic West,8050977,0.79,2110516,0.21
+X-Men Origins: Wolverine,2009,107,6.6,Gavin Hood,Gavin Hood,Hugh Jackman,Liev Schreiber,179883157,0.48,193179707,0.52
+Iron Man 2,2010,124,7,Jon Favreau,Jon Favreau,Robert Downey Jr.,Mickey Rourke,312433331,0.5,311500000,0.5
+Thor,2011,115,7,Kenneth Branagh,Kenneth Branagh,Chris Hemsworth,Anthony Hopkins,181030624,0.4,268295994,0.6
+X: First Class,2011,131,7.7,Matthew Vaughn,Matthew Vaughn,James McAvoy,Michael Fassbender,146408305,0.42,206208385,0.58
+Captain America: The First Avenger,2011,124,6.9,Joe Johnston,Joe Johnston,Chris Evans,Hugo Weaving,176654505,0.48,193915269,0.52
+Ghost Rider: Spirit of Vengeance,2011,96,4.3,Mark Neveldine,Brian Taylor,Nicolas Cage,Ciar<e1>n Hinds,51774002,0.39,80789928,0.61
+The Avengers,2012,143,8,Joss Whedon,Joss Whedon,Robert Downey Jr.,Chris Evans,623357910,0.41,895457605,0.59
+The Amazing Spider-Man,2012,136,6.9,Marc Webb,Marc Webb,Andrew Garfield,Emma Stone,262030663,0.35,495900000,0.65
+Iron Man Three,2013,130,7.1,Shane Black,Shane Black,Robert Downey Jr.,Guy Pearce,409013994,0.34,805797258,0.66
+The Wolverine,2013,126,6.7,James Mangold,James Mangold,Hugh Jackman,Will Yun Lee,132556852,0.32,282271394,0.68
+Thor: The Dark World,2013,112,6.9,Alan Taylor,Alan Taylor,Chris Hemsworth,Natalie Portman,206362140,0.32,438421000,0.68
+Captain America: The Winter Soldier,2014,136,7.7,Anthony Russo,Joe Russo,Chris Evans,Samuel L. Jackson,259766572,0.36,454654931,0.64
+The Amazing Spider-Man 2,2014,142,6.6,Marc Webb,Marc Webb,Andrew Garfield,Emma Stone,202853933,0.29,506128390,0.71
+X-Men: Days of Future Past,2014,132,7.9,Bryan Singer,Bryan Singer,Patrick Stewart,Ian McKellen,233921534,0.31,512124166,0.69
+Guardians of the Galaxy,2014,121,8,James Gunn,James Gunn,Chris Pratt,Vin Diesel,333718600,0.43,439631547,0.57
+Avengers: Age of Ultron,2015,141,7.3,Joss Whedon,Joss Whedon,Robert Downey Jr.,Chris Evans,459005868,0.33,943803672,0.67
+Ant-Man,2015,117,7.3,Peyton Reed,Peyton Reed,Paul Rudd,Michael Douglas,180202163,0.35,339109802,0.65
+Fantastic Four,2015,100,4.2,Josh Trank,Josh Trank,Miles Teller,Kate Mara,154696080,0.46,178839854,0.54
+Deadpool,2016,108,8,Tim Miller,Tim Miller,Ryan Reynolds,Morena Baccarin,363070709,0.46,419766082,0.54
+Captain America: Civil War,2016,147,7.8,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,408084349,0.35,745253147,0.65
+X-Men: Apocalypse,2016,144,6.9,Bryan Singer,Bryan Singer,James McAvoy,Michael Fassbender,155442489,0.29,388491616,0.71
+Doctor Strange,2016,115,7.5,Scott Derrickson,Scott Derrickson,Benedict Cumberbatch,Chiwetel Ejiofor,232641920,0.34,445154156,0.66
+Logan,2017,137,8.1,James Mangold,James Mangold,Hugh Jackman,Patrick Stewart,226277068,0.37,392902882,0.63
+Guardians of the Galaxy Vol. 2,2017,136,7.6,James Gunn,James Gunn,Chris Pratt,Zoe Saldana,389813101,0.45,473942950,0.55
+Spider-Man: Homecoming,2017,133,7.4,Jon Watts,Jon Watts,Tom Holland,Michael Keaton,334201140,0.38,545965784,0.62
+Thor: Ragnarok,2017,130,7.9,Taika Waititi,Taika Waititi,Chris Hemsworth,Tom Hiddleston,315058289,0.37,538925622,0.63
+Black Panther,2018,134,7.3,Ryan Coogler,Ryan Coogler,Chadwick Boseman,Michael B. Jordan,700426566,0.52,647171407,0.48
+Avengers: Infinity War,2018,149,8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,678815482,0.33,1369544272,0.67
+Deadpool 2,2018,119,7.7,David Leitch,David Leitch,Ryan Reynolds,Josh Brolin,324591735,0.41,461304874,0.59
+Ant-Man and the Wasp,2018,118,7,Peyton Reed,Peyton Reed,Paul Rudd,Evangeline Lilly,216648740,0.35,406025399,0.65
+Venom,2018,112,6.7,Ruben Fleischer,Ruben Fleischer,Tom Hardy,Michelle Williams,213515506,0.25,642569645,0.75
+Captain Marvel,2019,123,6.8,Anna Boden,Anna Boden,Brie Larson,Samuel L. Jackson,426829839,0.38,701633133,0.62
+Avengers: Endgame,2019,181,8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,858373000,0.31,1939128328,0.69
+X-Men: Dark Phoenix,2019,113,5.7,Simon Kinberg,Simon Kinberg,James McAvoy,Michael Fassbender,65845974,0.26,186597000,0.74
+Spider-Man: Far from Home,2019,129,7.5,Jon Watts,Jon Watts,Tom Holland,Samuel L. Jackson,390532085,0.35,741395911,0.65
+The New Mutants,2020,94,5.3,Josh Boone,Josh Boone,Maisie Williams,Anya Taylor-Joy,23852659,0.49,25316935,0.51
+Spider-Man: No Way Home,2021,148,8.3,Jon Watts,Tom Holland,Zendaya,Benedict Cumberbatch,814115070,0.42,1102778574,0.58
+Shang-Chi and the Legend of the Ten Rings,2021,132,7.4,Destin Daniel Cretton,Simu Liu,Tony Chiu-Wai Leung,Awkwafina,224543292,0.52,207700000,0.48
+Eternals,2021,146,6.3,Chloé Zhao,Gemma Chan,Richard Madden,Angelina Jolie,164870234,0.41,237194665,0.59
+Black Widow,2021,144,6.7,Cate Shortland,Scarlett Johansson,Florence Pugh,Rachel Weisz,183651655,0.48,196100000,0.52
+Venom: Let There Be Carnage,2021,93,5.9,Andy Serkis,Tom Hardy,Woody Harrelson,Michelle Williams,213550366,0.43,293313226,0.57
+Doctor Strange in the Multiverse of Madness,2022,126,6.9,Sam Raimi,Benedict Cumberbatch,Elizabeth Olsen,Chiwetel Ejiofor,411331607,0.44,544444197,0.56
+Thor: Love and Thunder,2022,119,6.3,Taika Waititi,Chris Hemsworth,Natalie Portman,Christian Bale,343256830,0.46,417671251,0.54
+Morbius,2022,104,5.2,Daniel Espinosa,Jared Leto,Matt Smith,Adria Arjona,73865530,0.44,93595431,0.56
